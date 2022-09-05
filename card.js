@@ -55,20 +55,6 @@ let myCard = [
 ];
 
 
-// function create() {
-//     myCard.title1 = form1.title1_1.value;
-//     myCard.title2 = form1.title1_2.value;
-//     myCard.promotion = form1.promotion1.value;
-//     myCard.price = form1.price1.value;
-//     myCard.sale_percent = form1.sale_percent1.value;
-//     myCard.rating = form1.rating1.value;
-    
-
-
-
-
-
-
 for (j=0; j<myCard.length; j++){
     poster = myCard[j].poster;
     type = myCard[j].type;
